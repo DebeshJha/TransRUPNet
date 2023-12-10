@@ -4,8 +4,9 @@ Out-of-distribution (OOD) generalization is a critical challenge in deep learnin
 
 ## Architecture
 <p align="center">
-<img src="img/DoubleU-Net.png">
+<img src="img/TransRUPNet.jpg">
 </p>
+
 ## Datasets:
 The following datasets are used in this experiment:
 <ol>
@@ -14,6 +15,18 @@ The following datasets are used in this experiment:
   <li>[Lesion Boundary segmentation challenge] (https://challenge.isic-archive.com/data/)/li>
   <li> [2018 Data Science Bowl challenge] (https://bbbc.broadinstitute.org/BBBC038/)</li>
  </ol>
+
+
+ <p align="center">
+<img src="img/blocks.jpg">
+</p>
+
+
+## Results
+ <p align="center">
+<img src="img/results.jpg">
+</p>
+
 
 
 ## Citation
