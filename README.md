@@ -9,7 +9,8 @@
 <img src="img/TransRUPNet.jpg">
 </p>
 
-##Key features
+# Key features
+
 **Encoder-Decoder Structure:** It consists of three encoder blocks, three decoder blocks, and additional upsampling blocks.
 
 **Use of Pyramid Vision Transformer (PVT):** The network begins with a PVT as a pretrained encoder, which helps in extracting various feature maps.
